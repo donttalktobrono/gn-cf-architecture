@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Guerrier"
+    given-names: "Jekhiel"
+title: "GN-CF: A Self-Organizing Neural Architecture with Balanced Ternary Computation and Adversarial Self-Play"
+version: 1.0.0
+date-released: 2026-01-17
+url: "https://github.com/donttalktobrono/gn-cf-architecture"
+repository-code: "https://github.com/donttalktobrono/gn-cf-architecture"
+keywords:
+  - artificial-intelligence
+  - neural-networks
+  - agi
+  - self-organization
+  - ternary-computing
+  - adversarial-learning
+  - neuroscience-inspired
+  - cortical-columns
+license: MIT
+abstract: "GN-CF (GyrusNet-CortexFormer) is a novel neural architecture that explores an alternative path to AGI through self-organizing principles rather than massive parameter scaling. The system combines balanced ternary computation, self-organizing microcolumn sheets with LE/LI dynamics, affinity liquids for emergent skill clustering, mirror generalization for unified forward/inverse models, and adversarial self-play where a single brain simultaneously acts as solver and challenger."
